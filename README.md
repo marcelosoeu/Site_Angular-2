@@ -22,6 +22,7 @@
  
 ## Descrição do Projeto
 PHP
+JAVASCRIPT
 HTML5
 CSS
 MYSQL.
