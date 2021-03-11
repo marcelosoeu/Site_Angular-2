@@ -1,4 +1,4 @@
-# **Nome do Projeto - Não definido**
+# **Nome do Projeto - TechScontrol**
 
 ## Dados da Turma
 * Dia da semana: **Segunda-Feira**
