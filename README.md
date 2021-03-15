@@ -1,4 +1,4 @@
-# **Nome do Projeto - TechScontrol**
+# *Grupo 6 - TechScontrol**
 
 ## Dados da Turma
 * Dia da semana: **Segunda-Feira**
