@@ -1,0 +1,129 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body{
+        background: url(../IMG/fundo-area-de-acesso.jpg) no-repeat center top fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    
+    .logo img{
+        width: 620px;
+        height: 535px;
+        margin: 0% 2% 0% 2%;
+        float: left;
+        padding: 0% 0% 0% 0%;
+    }
+    
+    form{
+       width: 500px;
+        margin: 10% 0% 2% 52%;
+        padding: 5% 0% 0% 0%;
+    }
+        
+    h1{
+       font-size: 40pt;
+       font-family: sans-serif;
+       margin: 0% 0% 0% 22%;
+       color: #008080;
+    }
+    
+    input[id=entrar]{
+        margin: 10% 0.5% 0% 0%;
+        background-color: #00008B;
+        color: #ffffff; 
+        height:47px;
+        width:245px;
+        display: inline;
+        cursor: pointer;
+        font-family: sans-serif;
+        font-size: 16pt;
+    }
+    
+    input[id=cancelar]{
+        margin: 10% 0% 0% 0.5%;
+        background-color: #00008B;
+        color: #ffffff; 
+        height:47px;
+        width:245px;
+        display: inline;
+        cursor: pointer;
+        font-family: sans-serif;
+        font-size: 16pt;
+    }
+    
+    label-float{
+        position: relative;
+        padding-top: 13px;
+    }
+
+    .label-float input{
+        border: 0;
+        border-bottom: 2px solid lightgrey;
+        margin-top: 6%;
+        outline: none;
+        min-width: 478px;
+        font-size: 16px;
+        transition: all .3s ease-out;
+        -webkit-transition: all .3s ease-out;
+        -moz-transition: all .3s ease-out;
+        -webkit-appearance:none;
+        border-radius: 0;
+        padding: 10px;
+        background-color: transparent;
+    }
+
+    .label-float input:focus{
+        border-bottom: 4px solid #3951b2;
+    }
+
+    .label-float input::placeholder{
+        color:#3951b2;
+    }    
+
+    .label-float input:required:invalid + label{
+        color: #3951b2;
+    }
+    
+    .label-float input:focus:required:invalid{
+        border-bottom: 4px solid #3951b2;
+    }
+
+    .label-float input:required:invalid + label:before{
+        content: '*';
+    }
+
+    .label-float input:focus + label,
+    .label-float input:not(:placeholder-shown) + label{
+        font-size: 13px;
+        margin-top: 0;
+        color: #3951b2;
+    }
+    
+    .link{
+        margin: 6% 2% 0% 3%;
+        text-align: center;
+        font-size: 14pt;
+    }
+    
+    a{
+        text-decoration: none;
+    }
+    
+    a:hover{
+        text-decoration: underline;
+    }
+    
+    div.msg-erro{
+        width: 420px;
+        margin: 0% 2% 2% 55%;
+        padding: 15px 5px;
+        background-color: rgba(255,0,0,.3);
+        border: 1px solid #FF6347;
+        text-align: center;
+        font-family: sans-serif;
+    }
