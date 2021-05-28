@@ -1,6 +1,5 @@
 # **Grupo 6 - TechScontrol**
-
-TESTE TESTE MARCELO
+Marcelo Vieira Almeida
 ## Dados da Turma
 * Dia da semana: **Segunda-Feira**
 * Período: **Noturno**
