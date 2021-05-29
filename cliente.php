@@ -16,7 +16,7 @@
         </head>
     <body>
         <section>            
-         <div id="user">
+            <div id="user">
                 <img src="./IMG/usuario.png" style="width: 80px; height: 80px; float: left; padding-right: 5%;"/>
                 <p style="margin: 5% 0% 0% 1%; padding: 3% 0% 0% 2%; font-family: sans-serif; font-weight: bold;">Marcelo Vieira Almeida</p><br>
                 <p style="margin: 0% 0% 0% 1%; padding: 0% 0% 0% 2%; font-family: sans-serif; font-weight: bold;">(11) 94174-1969</p>
@@ -48,8 +48,8 @@
                         <td><strong>PAGO</strong></td>
                     </tr>
                     <tr id="col4">
-                        <td><img src="./IMG/catraca 2.JPG" style="margin: 4% 24%; width: 150px; height: 150px; float: left; padding-right: 5%;"/></td>
-                        <td><a href="./DOC/curriculo2020.pdf" download="Curriculo 2020.pdf"><img src="./IMG/pdf.png" style="width: 80px; height: 80px; margin-top: 8%; margin-bottom: 10%;"></a></td>
+                        <td><img src="./IMG/Mini_cancela.png" style="margin: 4% 24%; width: 120px; height: 150px; float: left; padding-right: 5%;"/></td>
+                        <td><a href="./DOC/Totem-Saida_Entrada.pdf" download="Totem-saida_Entrada.pdf"><img src="./IMG/pdf.png" style="width: 80px; height: 80px; margin-top: 8%; margin-bottom: 10%;"></a></td>
                         <td>10/10/2020</td>
                         <td><strong>ABERTO</strong></td>
                     </tr>
